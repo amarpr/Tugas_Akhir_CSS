@@ -1,0 +1,13 @@
+.content {
+    padding: 40px;
+    background-color: #333333;
+    color: white;
+}
+
+.rounded-circle {
+    border: 1px solid white;
+}
+
+.row {
+    margin-top: 50px;
+}
